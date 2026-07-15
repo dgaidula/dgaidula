@@ -12,9 +12,9 @@ I’ve been building the logic of generative systems since before “generative 
 
 Also maintain a small suite of prepress/SVG/print-automation tools (`process-images`, `svg-color-rinse`, `svg-knockout`, and others) — production-grade image and print engineering, the same discipline applied to a different medium.
 
-**Elsewhere:**
-🌐 [gaidula.com](https://www.gaidula.com) — practice, writing, longer-form work
-💼 [LinkedIn](https://gaidu.la/linkedin)
+**Elsewhere:**<br>
+🌐 [gaidula.com](https://www.gaidula.com) — practice, writing, longer-form work<br>
+💼 [LinkedIn](https://gaidu.la/linkedin)<br>
 ✉️ dan@gaidula.com
 
 25 years as a creative technologist. 30 years as a designer. One throughline.

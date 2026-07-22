@@ -6,6 +6,7 @@ I’ve been building the logic of generative systems since before “generative 
 
 **Currently building:**
 
+- [`orchestrator-discipline`](https://github.com/dgaidula/orchestrator-discipline) — multi-agent AI work doesn’t fail loudly, it fails silently: work that should parallelize runs serially, subagent reports get trusted as facts, summaries arrive unreadable. An installable Claude Code skill that writes down the delegation disciplines preventing each — in ~130 tokens of always-on context, because a discipline skill that bloats every session is refuting itself.
 - [`google-workspace-mcp`](https://github.com/dgaidula/google-workspace-mcp) — a minimal MCP stdio server exposing Google Workspace write operations that another popular CLI's own MCP server intentionally leaves out. Single file, zero dependencies, raw JSON-RPC 2.0.
 - [`root-to-anywhere`](https://github.com/dgaidula/root-to-anywhere) — Claude's built-in Drive connector can't write directly into subfolders. Rather than work around that by hand every time, I paired a file-naming convention with a scheduled Apps Script that relocates and cleans up automatically.
 - [`gemini-vectorize`](https://github.com/dgaidula/gemini-vectorize) — a zero-dependency CLI that chains three different AI models (Gemini, Recraft) and a custom cleanup pass into one idempotent image-to-vector pipeline.

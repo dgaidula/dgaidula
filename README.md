@@ -2,11 +2,6 @@
 
 Creative Technologist · Design Systems Architect · Human-Machine Co-Author
 
-<!-- SXSW voting window closes 2026-08-23 — remove this block after -->
-> [!IMPORTANT]
-> **SXSW 2027 community voting is open through August 23**, and my session is in it: *The Part of Design I Could Not Systematise* — a 2003 thesis proposal that named the one part of design it couldn’t generate, and the critic I built for it 23 years later.
-> **[Vote](https://gaidu.la/sxsw-vote)** (takes a minute, free account) · [Read the 2003 proposal](https://gaidu.la/proposal-2003)
-
 I’ve been building the logic of generative systems since before “generative AI” was a category — a rule-based analog computing game at RISD in 2004, a rules-driven interactive map in 2003, an AI tooling layer for my own practice today. The tools change. The question doesn’t: how do you build a system precise enough to be consistent and flexible enough for a person to make it their own.
 
 **Currently building:**
